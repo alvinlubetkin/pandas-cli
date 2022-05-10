@@ -1,0 +1,30 @@
+{
+  "ethereum": {
+    "url": "https://speedy-nodes-nyc.moralis.io/ef1e54cd268c13ddf785f6bf/eth/mainnet",
+    "startMintId": 0
+  },
+  "bsc": {
+    "url": "https://speedy-nodes-nyc.moralis.io/ef1e54cd268c13ddf785f6bf/bsc/mainnet",
+    "startMintId": 3167
+  },
+  "avalanche": {
+    "url": "https://api.avax.network/ext/bc/C/rpc",
+    "startMintId": 2000
+  },
+  "polygon": {
+    "url": "https://speedy-nodes-nyc.moralis.io/ef1e54cd268c13ddf785f6bf/polygon/mainnet",
+    "startMintId": 4334
+  },
+  "arbitrum": {
+    "url": "https://speedy-nodes-nyc.moralis.io/ef1e54cd268c13ddf785f6bf/arbitrum/mainnet",
+    "startMintId": 5501
+  },
+  "optimism": {
+    "url": "https://mainnet.optimism.io",
+    "startMintId": 6667
+  },
+  "fantom": {
+    "url": "https://speedy-nodes-nyc.moralis.io/ef1e54cd268c13ddf785f6bf/fantom/mainnet",
+    "startMintId": 7833
+  }
+}

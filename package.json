@@ -1,0 +1,13 @@
+{
+  "name": "pandas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "pandas": "./bin/index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.6.5",
+    "yargs": "^17.3.1"
+  }
+}
